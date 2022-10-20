@@ -1,0 +1,11 @@
+
+http://www.spriters-resource.com/sega/sonic/sonicth1/display.php?file=sega.png
+http://www.spriters-resource.com/sega/sonic/sonicth1/display.php?file=sth1hu.png
+http://www.spriters-resource.com/sega/sonic/sonicth1/display.php?file=title.png
+http://www.spriters-resource.com/sega/sonic/sonicth1/display.php?file=sonicgenesistitle.png
+http://www.spriters-resource.com/sega/sonic/sonicth2/display.php?file=title.png
+http://www.spriters-resource.com/sega/sonic/sonicth2/display.php?file=tornado.png
+http://www.spriters-resource.com/sega/sonic/sonicth2/display.php?file=sega.gif
+http://www.spriters-resource.com/sega/sonic/sonicth3/display.php?file=s3_tornado.png
+http://www.spriters-resource.com/sega/sonic/sonicadv1/display.php?file=satitle.png
+http://www.spriters-resource.com/sega/sonic/rush/display.php?file=SRtitle.png
